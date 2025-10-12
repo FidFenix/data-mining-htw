@@ -1,0 +1,5 @@
+set up conda for sqllite
+1. set up conda env data-mining with python=3.12 (hope not to be wrong)
+conda install jupyter
+conda install pandas (because my path seems to be wrong)
+conda install numpy
