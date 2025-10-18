@@ -17,6 +17,7 @@ platforms = ["osx-arm64"]
 data_mining_htw = { path = ".", editable = true }
 
 [tool.pixi.tasks]
+primer = "python ./src/data_mining_htw/todo/main.py"
 
 [tool.pixi.dependencies]
 jupyter = ">=1.1.1,<2"

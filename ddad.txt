@@ -1,0 +1,4 @@
+vat-id in germany and work with czech republic 
+
+
+pixi task add hello python hello_world.py

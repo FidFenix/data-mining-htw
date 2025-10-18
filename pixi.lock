@@ -456,7 +456,7 @@ packages:
 - pypi: ./
   name: data-mining-htw
   version: 0.1.0
-  sha256: 0d0e4154fab1d15644d8288b28af3c215ad5d0eec8dd957824fd9e4cfb37e84d
+  sha256: 5cd72498e1e7a71db6e67232b97d375694ae04d2e0addf085250156eb262a323
   requires_python: '>=3.11'
   editable: true
 - conda: https://conda.anaconda.org/conda-forge/osx-arm64/debugpy-1.8.17-py314hac9ea21_0.conda
