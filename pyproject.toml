@@ -1,6 +1,6 @@
 [project]
 authors = [{name = "FidFenix", email = "fidel1forever@gmail.com"}]
-dependencies = []
+dependencies = ["torch", "sentence-transformers>=5.1.1,<6"]
 name = "data-mining-htw"
 requires-python = ">= 3.11"
 version = "0.1.0"
@@ -23,4 +23,6 @@ primer = "python ./src/data_mining_htw/todo/main.py"
 jupyter = ">=1.1.1,<2"
 numpy = ">=2.3.3,<3"
 pandas = ">=2.3.3,<3"
-sentence-transformers = ">=5.1.1,<6"
+scikit-learn = ">=1.7.2,<2"
+huggingface_hub = ">=0.35.3,<0.36"
+ipykernel = ">=7.0.1,<8"
